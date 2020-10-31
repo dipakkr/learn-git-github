@@ -8,7 +8,6 @@
     - distributed version-control system for tracking changes
     - hosting site that support VC
    
-- What is GIT ?
 - How to create repo ?
 - Forking repositories
 - Uploading your first repository
@@ -18,14 +17,13 @@
 
 **Commits**
 - What is a commit
+    - save your changes to the local repository.
+    - should be expliclty done. changes-> add -> commit 
 - Difference between **staging area**, **index area**, and, **working directory** commit
 - Conventions to follow during a commit
-- Searching through a commit
-
 
 
 **Branching and Merging**
-- Branch as an abstraction unit
 - Why is branching required?
 - How it handles features and allows multiple people to work on the same repo without collisions.
 - Checkout a branch
@@ -54,12 +52,6 @@
     - What is a reset?
     - Difference between hard, soft.
     - When to do reset?
-
-
-- **[Stashing](https://medium.freecodecamp.org/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a)**
-    - Why is stashing required?
-    - How to keep stashes of files
-    - How to pop them back
 
 - **Issues and Pull requests (Github)**
     - What is an issue?
