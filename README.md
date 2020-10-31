@@ -5,6 +5,9 @@
 **Version Control**
 
 - Difference between Git and Github
+    - distributed version-control system for tracking changes
+    - hosting site that support VC
+   
 - What is GIT ?
 - How to create repo ?
 - Forking repositories
